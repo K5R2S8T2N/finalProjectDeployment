@@ -1245,3 +1245,7 @@ body{
   padding: 0px 5px 2px 5px;
   font-size: 15px;
 }
+
+.darkerPurpleIcons, .darkerPurpleIconsHome{
+  color: rgb(85,26,139)
+}
