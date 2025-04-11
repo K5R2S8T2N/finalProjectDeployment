@@ -60,7 +60,7 @@ class Home extends React.Component{
                     <div className='fullPageWidth'>
                         <div id='mainSpotMeDiv'>
                             <div>
-                                <h1 id='spotMeTitle'>SpotMe</h1>
+                                <h1 id='spotMeTitle'>SpotMe Test</h1>
                                 <p id='spotMeSubtitle'>split expenses, settle up, no fuss</p>
                                 <button id='spotMeBtn' onClick={() => {window.location.href = '/register'}}><Link to="/register" id='spotMeBtnInnerText'>Get started today</Link></button>
                             </div>
